@@ -86,6 +86,5 @@ Always **Curious** and **Creative** 🧠
 </p>
 
 ------
-Credit: [mr-mib](https://github.com/mr-mib)
 
-Last Edited on: 01/06/2024
+Last Edited on: 23/05/2025
