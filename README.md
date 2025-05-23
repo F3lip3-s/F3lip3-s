@@ -31,10 +31,6 @@ Always **Curious** and **Creative** 🧠
     <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
     <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
   </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;"
-      </a>
-    </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://code.visualstudio.com/">
         <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
