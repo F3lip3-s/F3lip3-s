@@ -53,11 +53,6 @@ Always **Curious** and **Creative** 🧠
   </tr>
 </table>
 
-<!-- QUOTE -->
-<p align="right">
-    <q>Passion drives me, Curiosity guides me</q> <br> 
-    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
-</p>
 
 ------
 
