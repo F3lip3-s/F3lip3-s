@@ -7,7 +7,7 @@
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Felipe Salinas A.**
 
-Passionate about **programming** 💻 
+new to programming 💻 
 
 Love sharing **knowledge** 📚 
 
@@ -32,9 +32,7 @@ Always **Curious** and **Creative** 🧠
     <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+    <td style="border: 1px solid #ddd; padding: 8px;"
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
