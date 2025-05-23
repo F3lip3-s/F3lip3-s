@@ -36,12 +36,6 @@ Always **Curious** and **Creative** 🧠
         <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
-      </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
@@ -62,11 +56,6 @@ Always **Curious** and **Creative** 🧠
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
-      </a>
-    </td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
 </table>
