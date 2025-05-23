@@ -5,13 +5,11 @@
 <img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
-👨🏾‍💻 **Moustapha Ibrahima Ba**
+👨🏾‍💻 **Felipe Salinas A.**
 
 Passionate about **programming** 💻 
 
 Love sharing **knowledge** 📚 
-
-Computer Engineering Student 🧑🏾‍🎓 
 
 Enthusiastic **Problem Solver** 🧩 
 
